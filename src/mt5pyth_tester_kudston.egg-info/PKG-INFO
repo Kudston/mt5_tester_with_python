@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: mt5pyth_tester_kudston
+Version: 0.0.1
+Summary: A package for backtesting mt5 python integrated scripts.
+Author-email: AbdulKudus_Kadir <kadiabdulkudus@gmail.com>
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+##########
+A custom metatrader 5 strategy tester designed by @kudston
+
+Description:
+    - if You have a script of mt5 integrated python program, you can easily mask the mt5 module with our module here and be able to test using our currently tick based tester.

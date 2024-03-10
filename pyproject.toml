@@ -1,13 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0","MetaTrader5","pydantic"]
+build-backend = "setuptools.build_meta"
 
 [project]
-name = "mt5_pyth_tester_kudston"
+name = "mt5pyth_tester_kudston"
 version = "0.0.1"
 authors = [
   { name="AbdulKudus_Kadir", email="kadiabdulkudus@gmail.com" },
 ]
 description = "A package for backtesting mt5 python integrated scripts."
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",

@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/mt5pyth_tester_kudston/MT5TERMINAL.py
+src/mt5pyth_tester_kudston/__init__.py
+src/mt5pyth_tester_kudston/enumerations.py
+src/mt5pyth_tester_kudston/ordersmanagement.py
+src/mt5pyth_tester_kudston/schemas.py
+src/mt5pyth_tester_kudston.egg-info/PKG-INFO
+src/mt5pyth_tester_kudston.egg-info/SOURCES.txt
+src/mt5pyth_tester_kudston.egg-info/dependency_links.txt
+src/mt5pyth_tester_kudston.egg-info/top_level.txt
